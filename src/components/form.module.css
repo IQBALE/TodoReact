@@ -1,0 +1,23 @@
+.todoForm{
+    background-color: #fff;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.todoInput{
+    display: block;
+    width: 100%;
+    border: none;
+}
+
+.todoInput:focus{
+    outline:  none;
+}
