@@ -1,4 +1,4 @@
-import style from './footer.module.css'
+import style from './css/footer.module.css'
 export default function Footer({ completedTodos, totalTodos }) {
     return (
         <div className={style.footer}>

@@ -1,4 +1,4 @@
-import style from './todoitem.module.css'
+import style from './css/todoitem.module.css'
 
 export default function TodoItem({ item, todos, setTodos }) {
     function handleDelete(item) {
